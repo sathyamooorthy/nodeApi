@@ -1,0 +1,15 @@
+// goto mongoDB path as cd C:\Program Files\MongoDB\Server\4.2\bin
+add as mongod.exe --dbpath C:\Users\is7477\mongo-data
+open mongoDB compass community
+create database as demoDB and collection as users
+
+open visual studiocode 
+install all packages npm install
+copy all code 
+copy package.json and paste in it
+run as nodemon server.js
+happy coding
+
+
+
+reference : https://codeforgeek.com/restful-api-node-mongodb/
